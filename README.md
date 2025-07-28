@@ -1,4 +1,5 @@
-<div class="header">
+<div style="background-color: #f0f0f0;">
+ <div class="header">
       <p align="center">
         <img src="https://capsule-render.vercel.app/api?type=rounded&color=6495ed&fontColor=ffffff&text=SongYunSeok%20GitHub&height=150&fontSize=60" alt="SongYunSeok">
       </p>    
@@ -22,8 +23,8 @@
           </div>
     </div><br>
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongYunSeok0&show_icons=true&theme=radical&bg_color=1e1e1e&text_color=ffffff)
+      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongYunSeok0&show_icons=true&theme=radical&bg_color=1e1e1e&text_color=ffffff)
+      <br>
+</div>
 
-<br>
