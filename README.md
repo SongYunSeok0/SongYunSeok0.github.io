@@ -28,6 +28,6 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&show_icons=true&theme=radical&bg_color=1e1e1e&text_color=ffffff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongYunSeok0&show_icons=true&theme=radical&bg_color=1e1e1e&text_color=ffffff)
 
 <br>
