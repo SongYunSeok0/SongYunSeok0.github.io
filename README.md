@@ -1,5 +1,5 @@
 <div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6495ed&text=SongYunSeok%20GitHub%20&height=150&fontSize=60" alt="SongYunSeok">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6495ed&text=SongYunSeok%20GitHub%20&height=150&fontSize=60&descAlignY=60&descAlign=75" alt="SongYunSeok">
     </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
