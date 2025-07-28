@@ -7,7 +7,8 @@
   <h2>📧 Contact me 📧</h2>
   <p>
     <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Logo" style="vertical-align: middle; margin-right: 8px;">
-    <span style="vertical-align: middle;">qkfrus6623@naver.com</span>
+        <span style="vertical-align: middle;">qkfrus6623@naver.com</span>
+        <a href="https://dbstjr23.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
   </p>
 </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
