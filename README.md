@@ -4,7 +4,7 @@
       </p>    
 </div>
 <div align="center">
-  <h2>📧 Contact me 📧</h2>
+  <h2>📧 Information 📧</h2>
   <p>
       <a href="https://www.notion.so/00c97fb2fc1a4311b805f99d6501d6c3?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
       <a href="https://dbstjr23.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
