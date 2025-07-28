@@ -4,17 +4,12 @@
       </p>    
 </div>
 <div align="center">
-  <h2>📧 Email 📧</h2>
+  <h2>📧 Contact me 📧</h2>
   <p>
     <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Logo" style="vertical-align: middle; margin-right: 8px;">
     <span style="vertical-align: middle;">qkfrus6623@naver.com</span>
   </p>
 </div>
-<p>
-      <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Logo" style="vertical-align: middle; margin-right: 8px;">
-      <span style="vertical-align: middle;">qkfrus6623@naver.com</span>
-</p><br>
-<div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
