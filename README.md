@@ -11,7 +11,7 @@
     <div align= "center">  </div> 
     <h2 align="center">📧 Email 📧</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
   <Strong> qkfrus6623@naver.com </Strong>
 </p><br>
 <div align= "center">
