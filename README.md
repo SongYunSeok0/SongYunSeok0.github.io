@@ -3,11 +3,13 @@
         <img src="https://capsule-render.vercel.app/api?type=rounded&color=6495ed&fontColor=ffffff&text=SongYunSeok%20GitHub&height=150&fontSize=60" alt="SongYunSeok">
       </p>    
 </div>
-<div align= "center">
-      <a href=mailto:메 일 주 소> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:메 일 주 소"> </a>
-</div><br>
-    <div align= "center">  </div> 
-    <h2 align="center">📧 Email 📧</h2>
+<div align="center">
+  <h2>📧 Email 📧</h2>
+  <p>
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Logo" style="vertical-align: middle; margin-right: 8px;">
+    <span style="vertical-align: middle;">qkfrus6623@naver.com</span>
+  </p>
+</div>
 <p>
       <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Logo" style="vertical-align: middle; margin-right: 8px;">
       <span style="vertical-align: middle;">qkfrus6623@naver.com</span>
