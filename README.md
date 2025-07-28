@@ -10,9 +10,9 @@
           </div><br>
     <div align= "center">  </div> 
     <h2 align="center">📧 Email 📧</h2>
-<p style="display: flex; align-items: center; justify-content: center; gap: 8px; font-weight: bold; font-size: 18px; color: white;">
-  <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">
-  qkfrus6623@naver.com
+<p>
+  <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Logo" style="vertical-align: middle; margin-right: 8px;">
+  <span style="vertical-align: middle;">qkfrus6623@naver.com</span>
 </p><br>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
