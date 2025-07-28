@@ -1,6 +1,8 @@
 <div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=rounded&color=6495ed&fontColor=ffffff&text=SongYunSeok%20GitHub&height=150&fontSize=60" alt="SongYunSeok">
-    </div>
+      <p align="center">
+        <img src="https://capsule-render.vercel.app/api?type=rounded&color=6495ed&fontColor=ffffff&text=SongYunSeok%20GitHub&height=150&fontSize=60" alt="SongYunSeok">
+      </p>    
+</div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
          <a href=https://www.instagram.com/인스타그램 아이디> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/인 스 타 아 이 디"> </a>
